@@ -1,7 +1,7 @@
 import copy
 import numpy as np
 import sys
-sys.path.append("..\\aima_code\\aima-python")
+sys.path.append("aima-python")
 
 from Grid import Grid, showGridLines
 from Line import Line
